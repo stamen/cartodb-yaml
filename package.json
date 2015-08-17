@@ -1,0 +1,11 @@
+{
+  "name": "cartodb-yaml",
+  "version": "0.0.0",
+  "description": "Compile YAML CartoDB Named Map configs to JSON",
+  "author": "Seth Fitzsimmons <seth@mojodna.net>",
+  "license": "ISC",
+  "bin": "bin/cartodb-yaml.js",
+  "dependencies": {
+    "js-yaml": "^3.3.1"
+  }
+}
